@@ -1,6 +1,7 @@
 baseurl = "http://alihafizji.com/"
 languageCode = "en-us"
 title = "Ali Hafizji"
+canonifyurls = true
 
 [params]
 
