@@ -1,0 +1,22 @@
+<link href="/css/testimonial.css" rel="stylesheet"/>
+<h2 class="header">Testimonials</h2>
+
+{{ $testimonials := .testimonials }}
+{{ range $testimonials }}
+<div class="row testimonialscontainer">
+
+    <div class="col-xs-3">
+        {{ partial "circular_image" (dict "content" . "pictureLocation" .profilePic)}}
+        <h3 class="red-color text-center" id="name">
+            {{.name}}
+        </h3>
+        <h4 class="text-center" id="position">
+            {{.position}}
+        </h4>
+    </div>
+
+    <div class="col-xs-9">
+        <p class="black-color">{{.testimonial}}</p>
+    </div>
+</div>
+{{ end }}

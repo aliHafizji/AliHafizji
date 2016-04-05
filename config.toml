@@ -1,0 +1,179 @@
+baseurl = "http://alihafizji.com/"
+languageCode = "en-us"
+title = "Ali Hafizji"
+
+[params]
+
+    [[params.portfolio]]
+        projectId=1
+        icon="/assets/ic_zazzle_ios.png"
+        relativeUrl="/portfolio/zazzle_ios"
+        projectDetailImage="/assets/zazzle_ipad.png"
+        projectName="Zazzle"
+
+    [[params.portfolio]]
+        projectId=2
+        icon="/assets/ic_zazzle_android.png"
+        relativeUrl="/portfolio/zazzle_android"
+        projectDetailImage="/assets/zazzle_android.png"
+        projectName="Zazzle"
+
+    [[params.portfolio]]
+        projectId=3
+        icon="/assets/ic_fanjam.png"
+        relativeUrl="/portfolio/fanjam"
+        projectDetailImage="/assets/fanjam.png"
+        projectName="FanJam"
+
+    [[params.portfolio]]
+        projectId=4
+        icon="/assets/ic_senior_people_meet.png"
+        relativeUrl="/portfolio/seniorpeoplemeet"
+        projectDetailImage="/assets/seniorpeoplemeet.png"
+        projectName="Senior People Meet"
+
+    [[params.portfolio]]
+        projectId=5
+        icon="/assets/ic_biobeats.png"
+        relativeUrl="/portfolio/biobeats"
+        projectDetailImage="/assets/biobeats.png"
+        projectName="Biobeats"
+
+    [[params.portfolio]]
+        projectId=6
+        icon="/assets/ic_cheddar.png"
+        relativeUrl="/portfolio/cheddar"
+        projectDetailImage="/assets/cheddar.png"
+        projectName="Cheddar"
+
+    [[params.portfolio]]
+        projectId=7
+        icon="/assets/ic_stayaxis.png"
+        relativeUrl="/portfolio/stayaxis"
+        projectDetailImage="/assets/stayaxis.png"
+        projectName="StayAxis"
+
+    [[params.portfolio]]
+        projectId=8
+        icon="/assets/ic_bigbaby.png"
+        relativeUrl="/portfolio/bigbaby"
+        projectDetailImage="/assets/bigbaby.png"
+        projectName="BigBaby"
+
+    [[params.portfolio]]
+        projectId=9
+        icon="/assets/ic_notabli_ios.png"
+        relativeUrl="/portfolio/notabli_ios"
+        projectDetailImage="/assets/notabli_ios.png"
+        projectName="Notabli"
+
+    [[params.portfolio]]
+        projectId=10
+        icon="/assets/ic_notabli_android.png"
+        relativeUrl="/portfolio/notabli_android"
+        projectDetailImage="/assets/notabli_android.png"
+        projectName="Notabli"
+
+    [[params.testimonials]]
+        testimonialId=1
+        projectId=7
+        name="Mahendra Yadav"
+        profilePic="/assets/mahendra.png"
+        position="CEO, Tavisca Solutions Pvt. Ltd."
+        testimonial="Ali helped build our first product offering on mobile. He worked individually and delivered a finished product. Would highly recommend him."
+
+    [[params.testimonials]]
+       testimonialId=2
+       projectId=3
+       special=true
+       name="Toni Gemayel"
+       position="CEO, FanJam"
+       profilePic="/assets/toni.png"
+       testimonial="Ali is one of the most skillful developers I have ever had the pleasure of working with. He was an excellent communicator, fit in seamlessly with the rest of our team, and adapted to our changing API on the fly. We value design & UX highly - and the final product of Ali’s work was a beautiful, well tested and polished iPhone app. I would recommend Ali to anyone and would jump at the opportunity to work with him again."
+
+    [[params.testimonials]]
+        testimonialId=3
+        projectId=3
+        special=true
+        name="TJ Weigel"
+        position="CDO, FanJam"
+        profilePic="/assets/tj.png"
+        testimonial="Ali was a pleasure to work with. He was always on top of his tasks and was great at providing advice when working through bugs or tough design decisions. I would absolutely recommend and work with him again."
+
+    [[params.testimonials]]
+       testimonialId=4
+       projectId=8
+       name="Caroline Kinny-Lewis"
+       position="Executive Producer, Big Ice Cream Pty Ltd. "
+       profilePic="/assets/caroline.png"
+       testimonial="Ali delivered all our requirements plus more. Whilst developing our app, he was diligent and extremely helpful when it came to problem solving. He always went the extra mile to ensure each milestone was delivered on time and with a high degree of quality. Ali is a true professional."
+
+    [[params.books]]
+       name="iOS 6 by tutorials"
+       features=["Auto Layout", "Passbook", "Social Framework", "EventKit", "And Much More..."]
+       url="https://www.raywenderlich.com/store/ios-6-by-tutorials?source=alihafizji"
+       image="/assets/ios6_by_tutorials.png"
+
+    [[params.books]]
+       name="2D iOS & tvOS Games by Tutorials"
+       features=["Build 5 mini games", "SpriteKit physics engine", "SpriteKit actions", "GameCenter API", "And Much More..."]
+       url="https://www.raywenderlich.com/store/2d-ios-tvos-games-by-tutorials?source=alihafizji"
+       image="/assets/2d_ios_tvos_games.png"
+
+    [[params.process]]
+        title="Consultation"
+        subtitle="We get on a call and discuss the project."
+        image="/assets/ic_consulting.svg"
+
+    [[params.process]]
+        title="Proposal"
+        subtitle="I'll send you a proposal based on our discussion including time-lines and cost."
+        image="/assets/ic_proposals.svg"
+
+    [[params.process]]
+        title="Design"
+        subtitle="I'm not a designer so I'll wait for the design specs from your side."
+        image="/assets/ic_design.svg"
+
+    [[params.process]]
+        title="Development & Testing"
+        subtitle="I follow the agile process and work in weekly sprints. I will send out a build and demo the work at the end of each sprint."
+        image="/assets/ic_development.svg"
+
+    [[params.process]]
+        title="Deployment"
+        subtitle="After completing all the features I shall deploy the application to the appstore."
+        image="/assets/ic_deployment.svg"
+
+    [[params.process]]
+        title="Maintenance"
+        subtitle="I offer a monthly retainer where I shall work on the application for 15 hours/month. The retainer will be at a discount to the hourly price."
+        image="/assets/ic_maintenance.svg"
+
+    [params.social]
+        github      = "aliHafizji"
+        facebook        = "ali.hafizji"
+        facebook_admin  = "564590045"  # This needs to be a page admin to get domain insights
+        twitter     = "Ali_hafizji"
+        twitter_domain  = "alihafizji.com" # This domain shows in twitter cards as "View on `twitter_domain`"
+        googleplus      = "alihafizji"
+        instagram       = "olie_hafizji"
+        linkedin        = "ali-hafizji"
+
+    [params.authors]
+        [params.authors.Ali]
+          name          = "Ali Hafizji"
+          thumbnail     = "http://www.raywenderlich.com/downloads/AliHafizji.jpg"
+          images        = [
+                            "https://pbs.twimg.com/profile_images/2449250013/c5nvv6x1dijvvbl4yxi4.jpeg"
+                          ]
+          bio           = "Writer. Freelance iOS, Android and Web Developer. Devoted husband. World's largest consumer of chocolate chip ice-cream."
+          email         = "ali@alihafizji.com"
+
+          [params.authors.Ali.social]
+            github          = "aliHafizji"
+            facebook        = "ali.hafizji"
+            twitter         = "Ali_hafizji"
+            googleplus      = "alihafizji"
+            instagram       = "olie_hafizji"
+            linkedin        = "ali-hafizji"

@@ -1,0 +1,16 @@
+{{ partial "head_imports" .}}
+{{ partial "header" .}}
+
+<link href="/css/page_not_found.css" rel="stylesheet"/>
+<div class="container-fluid content-container">
+
+    <div class="row pageNotFoundSection">
+        <img src="/assets/page_not_found.svg" class="img-responsive center-block" id="pageNotFoundImage"/>
+    </div>
+
+    <div class="row pageNotFoundSection">
+        <a href="/" class="col-xs-12 text-bold text-center" id="takeMeHomeTextSize">Take me home</a>
+    </div>
+</div>
+
+{{ partial "footer" .}}

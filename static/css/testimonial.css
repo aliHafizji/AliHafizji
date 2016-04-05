@@ -1,0 +1,27 @@
+.header {
+    margin-bottom: 60px;
+}
+
+.testimonialscontainer {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+#name {
+    font-weight: 400;
+}
+
+#position {
+    margin-top: -7px;
+}
+
+@media (max-width: 568px) {
+
+    .header {
+        margin-bottom: 20px;
+    }
+
+    #name {
+        font-weight: 300;
+    }
+}

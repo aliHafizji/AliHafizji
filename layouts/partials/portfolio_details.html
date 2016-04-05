@@ -1,0 +1,18 @@
+<link href="/css/portfolio_details.css" rel="stylesheet"/>
+<div class="container-fluid content-container">
+    <h2>{{ .Title }}</h2>
+
+    {{range where .Site.Params.portfolio "projectId" "==" .Params.projectid }}
+    <img src="{{ .projectDetailImage }}" class="img-responsive center-block" id="productImage">
+    {{ end }}
+
+    <div id="productSummary">
+        {{.Content}}
+    </div>
+
+    {{ $context:= . }}
+    {{ $testimonials:= where .Site.Params.testimonials "projectId" "==" .Params.projectid}}
+    {{ if $testimonials }}
+        {{ partial "testimonial" (dict "content" $context "testimonials" $testimonials) }}
+    {{ end }}
+</div>

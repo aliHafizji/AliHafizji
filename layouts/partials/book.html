@@ -1,0 +1,13 @@
+<link href="/css/book.css" rel="stylesheet"/>
+<a href="{{.book.url}}" target="_blank"><img class="img-responsive center-block" src="{{.book.image}}"/></a>
+
+{{$features:=.book.features}}
+{{ if $features }}
+<div id="featuresContainer">
+    <ul>
+    {{ range $features}}
+        <li class="red-color no_size"><p>{{.}}</p></li>
+    {{ end }}
+    </ul>
+</div>
+{{ end }}

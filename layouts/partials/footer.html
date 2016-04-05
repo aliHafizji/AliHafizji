@@ -1,0 +1,42 @@
+<link href="/css/footer.css" rel="stylesheet"/>
+<footer class="container-fluid" id="footerContainer">
+    <div class="row content-container">
+        <div class="col-xs-8 col-sm-10">
+            <h2 id="footerTitle">Want to hear from me?</h2>
+            <p id="footerText">I send a newsletter once every two months where I share my views on the latest technologies, interesting SaaS businesses, the books I'm reading and links to a few hand-picked articles.</p>
+        </div>
+        <div class="col-xs-4 col-sm-2">
+            <div class="center-block">
+                {{ partial "circular_image" (dict "content" . "pictureLocation" "/assets/ali.png")}}
+            </div>
+        </div>
+    </div>
+
+    <div class="row content-container" id="emailRow">
+        <form action="//alihafizji.us13.list-manage.com/subscribe/post?u=ad233e767316c233a1d8a0dff&amp;id=e587dd91fa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+            <div class="form-group col-sm-6 col-xs-12 email-input-box" id="emailContainer">
+                <label class="control-label" for="emailInput">Enter Email</label>
+                <input class="form-control" id="emailInput" type="email" value="" name="EMAIL" autocomplete="off" required>
+                <p class="help-block">I hereby solemnly swear to not share your email address with anyone. Cross my heart and hope to die.</p>
+            </div>
+
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ad233e767316c233a1d8a0dff_e587dd91fa" tabindex="-1" value=""></div>
+            <div class="clear">
+                <div class="col-xs-1 visible-xs"></div>
+                <input type="submit" value="Sign up!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-raised btn-primary col-sm-3 col-xs-10 submit_button">
+                <div class="col-xs-1 visible-xs"></div>
+            </div>
+        </form>
+    </div>
+
+    <div class="row" id="windows">
+        <img src="/assets/pune_landmark.svg" class="img-responsive center-block" id="fort"/>
+    </div>
+
+    <div class="full-width row light-gray-background-color" id="copyright">
+        <h4 class="black-color">© 2015-2016 Ali Hafizji. All rights reserved.</h4>
+    </div>
+</footer>
+{{ partial "ga.html" .}}
+</body>
+</html>

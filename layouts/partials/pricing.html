@@ -1,0 +1,60 @@
+<link href="/css/pricing.css" rel="stylesheet"/>
+<div class="container-fluid content-container">
+    <div>
+        <h2>Hire Me</h2>
+        <p class="section-body">If you're looking for someone who has technical knowledge with a track record of delivering quality products and understands your business, then look no further and get in touch.</p>
+    </div>
+
+    <div class="section-top-buffer">
+        <h2>Process</h2>
+        <div class="section-body" style="overflow: hidden">
+            {{ range .Site.Params.process }}
+            <div class="col-sm-4 col-xs-6">
+                <img src="{{ .image }}" class="img-responsive center-block" id="processImage"/>
+                <p class="text-center text-bold red-color" id="processTitle">{{.title}}</p>
+                <p class="text-center" id="processDescription">{{.subtitle}}</p>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="section-top-buffer">
+        <h2>FAQs</h2>
+        <ul class="section-body">
+            <li class="red-color text-bold">How do you charge?</li>
+            <p>Although I prefer to charge a fixed hourly rate, in cases where the budget is a constraint (yes I’m talking to you startups!) I have a different model where I charge a fixed monthly price. This, of course, is subject to the type of work involved and the duration of the project.
+                I usually prefer to take up long term projects of a minimum duration of three months or having a budget of atleast $7000.</p>
+
+            <li class="red-color text-bold">Our timezones are drastically apart. How will our engagement work?</li>
+            <p>Most of my clients are in the United States of America, which is 12 hours behind me and yet we've have excellent communication.
+                I work during PST work hours and I make sure that I'm available for at-least four hours of your work day.</p>
+            <p>I use Slack, Google Hangouts, Github and Screenhero to make the communication effective. I like to have daily stand-ups as well. </p>
+
+            <li class="red-color text-bold">Are you open for long terms engagements (upwards of 3 months)?</li>
+            <p>I would love to engage in a long term contract. It is extremely fulfilling for me to see a project I've worked on blossom as the company grows and I enjoy being a part of the process.</p>
+
+            <li class="red-color text-bold">I've got a deadline coming up soon. Can you help?</li>
+            <p>As much as I would love to help you out, please keep in mind that it takes time to build quality products and I don't like to compromise on quality.
+
+            <li class="red-color text-bold">I already have an application. Can you develop a new feature for me?</li>
+            <p>Yes I'm always up for a new challenge. However, please keep in mind that I will need some time to familiarize myself with the code. For engagements which are lesser than a month I charge by the hour.</p>
+
+            <li class="red-color text-bold">I don't have a design. Can you also design the application?</li>
+            <p>Unfortunately, while I'm still learning how to design, I'm no expert. However, I can introduce you to a few good designers I've worked with.</p>
+
+            <li class="red-color text-bold">Are you available to work from our offices?</li>
+            <p>I'd love to! It would be awesome to meet the team. However, this stance may vary depending upon my prior commitments or in cases of emergency.</p>
+
+            <li class="red-color text-bold">Are you open to write a book for our publication?</li>
+            <p>Yes I am interested in writing more books. However, I need a minimum commitment of 10,000$ in sales from the publisher with a certain amount paid in advance.</p>
+        </ul>
+    </div>
+
+    <div id="testimonialsContainer">
+        {{ $context:= . }}
+        {{ $testimonials:= where .Site.Params.testimonials ".special" "!=" nil }}
+        {{ if $testimonials}}
+        {{ partial "testimonial" (dict "content" $context "testimonials" $testimonials)}}
+        {{ end }}
+    </div>
+</div>
