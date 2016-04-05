@@ -1,0 +1,77 @@
+#fort {
+    margin-top: -25px;
+    background-color: white;
+}
+
+#windows {
+    background: url("/assets/window.svg") repeat-x;
+    margin-top: 100px;
+}
+
+#copyright {
+    margin-top: 5px;
+    padding: 10px 50px 10px 50px;
+    border-bottom: 2px solid #CC3E4A;
+}
+
+#emailRow {
+    margin-top: 80px;
+}
+
+#emailContainer {
+    margin-top: -28px;
+}
+
+#footerTitle {
+    border-top: 1px solid #D1D1D1;
+    padding-top: 50px
+}
+
+#footerText {
+    margin-top: 50px;
+}
+
+#footerContainer {
+    margin-top: 300px;
+}
+
+@media (max-width: 992px) {
+    #footerText {
+        margin-top: 40px;
+    }
+
+    #emailRow {
+        margin-top: 40px;
+    }
+
+    #footerContainer {
+        margin-top: 200px;
+    }
+
+    #copyright {
+        padding: 10px 50px 10px 25px;
+    }
+}
+
+@media (max-width: 568px) {
+    .email-input-box {
+        float: none !important;
+        width: auto !important;
+    }
+
+    .submit_button {
+        margin-top: 40px;
+    }
+
+    #footerText {
+        margin-top: 20px;
+    }
+
+    #footerContainer {
+        margin-top: 100px;
+    }
+
+    #copyright {
+        padding: 10px 50px 10px 15px;
+    }
+}

@@ -1,0 +1,75 @@
+#container {
+    margin-bottom: 40px;
+}
+
+#header {
+    background-color: #CC3E4A;
+    padding-bottom: 180px;
+    padding-top: 180px;
+}
+
+#headerTitle {
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+#whatIdDoContainer {
+    padding-top: 50px;
+}
+
+.headerSubTitle {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.sectionContainer {
+    border-bottom: 1px solid #D1D1D1;
+    padding-bottom: 50px;
+    margin-bottom: 70px;
+}
+
+#booksGridContainer {
+    margin-top: 60px;
+}
+
+@media (max-width: 992px) {
+    #header {
+        padding-bottom: 150px;
+        padding-top: 150px;
+    }
+
+    #whatIdDoContainer {
+        padding-top: 15px;
+    }
+
+    #booksGridContainer {
+        margin-top: 40px;
+    }
+
+    .sectionContainer {
+        padding-bottom: 30px;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 552px) {
+    #header {
+        padding-bottom: 100px;
+        padding-top: 100px;
+    }
+
+    #whatIdDoContainer {
+        padding-top: 0px;
+    }
+
+    #booksGridContainer {
+        margin-top: 20px;
+    }
+
+    .sectionContainer {
+        padding-bottom: 10px;
+        margin-bottom: 25px;
+    }
+}

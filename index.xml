@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Hafizji</title>
+    <link>http://alihafizji.com/</link>
+    <description>Recent content on Ali Hafizji</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Mar 2016 16:08:40 +0530</lastBuildDate>
+    <atom:link href="http://alihafizji.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>StayAxis</title>
+      <link>http://alihafizji.com/portfolio/stayaxis/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:40 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/stayaxis/</guid>
+      <description>&lt;p&gt;Tavisca solutions is a travel technology company. They empower millions of travel bookings and searches for their customers.&lt;/p&gt;
+
+&lt;p&gt;While working at Tavisca I had the unique opportunity to build their first product offering for touch devices. I started working with their design team to create a hotel booking application for the iPad.
+I single handedly built the entire application and also built a small team for the product.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cheddar</title>
+      <link>http://alihafizji.com/portfolio/cheddar/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:33 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/cheddar/</guid>
+      <description>&lt;p&gt;Cheddar is an amazing Todo list application developed for the iPhone and Mac OS platforms. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync.&lt;/p&gt;
+
+&lt;p&gt;This application was developed by the folks at Nothing Magical. At that time there was no such application available for Android. Since their API was public I decided to write the Android version of Cheddar.
+I had a blast working on this project as I was not only handling the technical aspect but also designed the user experience for both tablet and phone form factors. The application was built as a side project and it took around two weeks to design, develop and release.&lt;/p&gt;
+
+&lt;p&gt;Since, the iOS application was open sourced. I decided to open source the Android app as well. You can find the code here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BigBaby</title>
+      <link>http://alihafizji.com/portfolio/bigbaby/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/bigbaby/</guid>
+      <description>&lt;p&gt;Big Ice Cream is a digital studio that produces apps for pre-school and early primary school children on touch devices.&lt;/p&gt;
+
+&lt;p&gt;The app gives children aged three to six a baby of their own to comfort, feed, dress and care for.&lt;/p&gt;
+
+&lt;p&gt;As children interact with the baby, discoverable features are revealed that reward their curiosity. The baby responds happily to actions like having its feet or hair touched, and cries if its bottle is taken away too soon. With its nurturing themes of feeding, clothing and comforting a small baby, Big Baby is also one of the few apps to help build emotional intelligence.&lt;/p&gt;
+
+&lt;p&gt;The folks at Big Ice Cream got in touch with me with an early design. After reviewing the design and understanding the animations required to bring the character to life, I realized that for the designers to visually communicate the animations to me would be complicated using traditional tools.
+Hence, I suggested to use a skeletal animation system to represent the character as well as the animations that it would have. Using a tool called Spine I created a process by which the client could could export the animations directly to a file format that can be read by the game engine.
+I also worked on creating a module to understand the exported animations, this module was incorporated in the game engine I used i.e. cocos2d-iPhone.&lt;/p&gt;
+
+&lt;p&gt;The entire project took about three months to complete. During the length of the project we held daily standups. I also sent out weekly builds and committed all the code to github on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested to try the application here is a link to it on the Appstore:.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BioBeats</title>
+      <link>http://alihafizji.com/portfolio/biobeats/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/biobeats/</guid>
+      <description>&lt;p&gt;BioBeats’ machine learning platform delivers biometric insight about the wellbeing of individuals, employees and patients in real-time, and helps them action that insight through engaging media.&lt;/p&gt;
+
+&lt;p&gt;While working as a contractor for Monsoon, I had the previlege to build the early version of the 12 Breaths application. This application was developed using the technology provided by the folks at BioBeats.&lt;/p&gt;
+
+&lt;p&gt;Using that we were able to measure the heart rate of the user using the camera and the flash light. The data collected was shown to the user in the form of an interactive graph. The application was built for the iPhone and I followed the agile process during the entire development cycle. We had weekly releases and daily standups to discuss progress and blockers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notabli for Android</title>
+      <link>http://alihafizji.com/portfolio/notabli_android/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/notabli_android/</guid>
+      <description>&lt;p&gt;Notabli is a place to privately share photos, videos, quotes, and audio recordings of your kids with family &amp;amp; friends.&lt;/p&gt;
+
+&lt;p&gt;Having the privilege of working with Notabli on their iOS application, I was immediately interested when I heard about their delve into the world of Android.&lt;/p&gt;
+
+&lt;p&gt;I came on board as a contract Android developer after the first version of the application was developed. During my tenure I worked extensively on the networking layer, performance, adding a unit test suite and also built the inline video player.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s always fun to work with a team that is motivated to improve the product. Since, they already had a set process and communication channels that they followed internally I adapted to use the same as soon as I joined.&lt;/p&gt;
+
+&lt;p&gt;Here is a link to the application in the Google Play Store.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notabli for iOS</title>
+      <link>http://alihafizji.com/portfolio/notabli_ios/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/notabli_ios/</guid>
+      <description>&lt;p&gt;Notabli is a place to privately share photos, videos, quotes, and audio recordings of your kids with family &amp;amp; friends.&lt;/p&gt;
+
+&lt;p&gt;My relationship with Notabli started after the initial release of their iOS application. I started working with them as a freelance contractor and worked only on the iOS application.&lt;/p&gt;
+
+&lt;p&gt;After the release of iOS 7 and the change in the design guidelines the team at Notabli decided to give the app a visual lift. I helped them bring all those designs to life and also worked on new media pickers for each of the media types the app supports.&lt;/p&gt;
+
+&lt;p&gt;I was involved in this project for a long time and I enjoyed every bit of it.&lt;/p&gt;
+
+&lt;p&gt;Try it out on the Appstore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Senior People Meet</title>
+      <link>http://alihafizji.com/portfolio/seniorpeoplemeet/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:22 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/seniorpeoplemeet/</guid>
+      <description>&lt;p&gt;SeniorPeopleMeet.com is a community specially designed to cater to senior singles seeking mature dating. It helps people discover a vibrant senior community of mature adults in which to make a senior connection.&lt;/p&gt;
+
+&lt;p&gt;While working with Monsoon as a contractor I worked on the SeniorPeopleMeet project. I helped build the iOS application. The application was written in Swift 1.0 which was later upgraded to the latest version with every release from Apple.&lt;/p&gt;
+
+&lt;p&gt;I focused on building the networking layer and also helped build a large number of UI elements. We later converted the networking layer into an internal cocoapod and also added support for themes.&lt;/p&gt;
+
+&lt;p&gt;You can find the application on the Appstore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FanJam</title>
+      <link>http://alihafizji.com/portfolio/fanjam/</link>
+      <pubDate>Mon, 21 Mar 2016 16:08:11 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/fanjam/</guid>
+      <description>&lt;p&gt;FanJam is a mobile basketball fantasy game for friends. You can play your buddies for free or cash, and easily send challenges through text or email. FanJam is different from traditional fantasy because you get to build a new lineup every night.&lt;/p&gt;
+
+&lt;p&gt;During my initial consultation with the team at FanJam we discussed a rough timeline and the requirements to start working on the iPhone application. Following this I sent over a proposal which included all the details on the development process, estimate on cost, timeline for release and design requirements for the application.&lt;/p&gt;
+
+&lt;p&gt;The team sent over the specifications for their API and also sent the final designs for the app. I worked with their design team to create a process to export the designs artifacts to use in the application.&lt;/p&gt;
+
+&lt;p&gt;This application was developed using an agile approach where I would plan tasks for each week in advance. At the end of the week I would send out a build, we also had weekly standups where we discussed the progress for the week.&lt;/p&gt;
+
+&lt;p&gt;Take a look at the final product here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zazzle for Android</title>
+      <link>http://alihafizji.com/portfolio/zazzle_android/</link>
+      <pubDate>Mon, 21 Mar 2016 11:17:36 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/zazzle_android/</guid>
+      <description>&lt;p&gt;Zazzle is an online marketplace that allows designers and customers to create their own products using their product customization tool.&lt;/p&gt;
+
+&lt;p&gt;While working at Monsoon, I worked with a small team of developers to build the Android version of Zazzle. I worked on this project right from inception to release and was a part of all the important technical decisions.&lt;/p&gt;
+
+&lt;p&gt;I spent most of my time working on building different UI components for the Android app. You can find it here on the Google Play store.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zazzle for iOS</title>
+      <link>http://alihafizji.com/portfolio/zazzle_ios/</link>
+      <pubDate>Mon, 21 Mar 2016 11:17:36 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/portfolio/zazzle_ios/</guid>
+      <description>&lt;p&gt;Zazzle is an online marketplace that allows designers and customers to create their own products using their product customization tool.&lt;/p&gt;
+
+&lt;p&gt;While working at Monsoon I worked with a team of developers to build the iOS version of Zazzle. I initially started adding support for the iPad to the already existing iPhone application.&lt;/p&gt;
+
+&lt;p&gt;With the release of Swift the team at Zazzle decided to re-write the code in Swift. I was part of the team that worked on re-writing the entire application in Swift. Along the way we added support for universal screen sizes and changed a large amount of code already written in Obj-C.&lt;/p&gt;
+
+&lt;p&gt;Here is the link to the app in the Appstore.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://alihafizji.com/about/</link>
+      <pubDate>Thu, 17 Mar 2016 18:04:44 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>http://alihafizji.com/pricing/</link>
+      <pubDate>Thu, 17 Mar 2016 18:04:44 +0530</pubDate>
+      
+      <guid>http://alihafizji.com/pricing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

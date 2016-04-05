@@ -1,0 +1,11 @@
+.circular-border {
+    border: 1px solid #CC3E4A;
+    padding: 1px;
+    border-radius: 100%;
+}
+
+@media (min-width: 568px) {
+    .circular-border {
+        border: 2px solid #CC3E4A;
+    }
+}
