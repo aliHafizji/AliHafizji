@@ -7,71 +7,71 @@ canonifyurls = true
 
     [[params.portfolio]]
         projectId=1
-        icon="/assets/ic_zazzle_ios.png"
-        relativeUrl="/portfolio/zazzle_ios"
+        icon="/assets/ic_zazzle_ios.svg"
+        relativeUrl="zazzle_ios"
         projectDetailImage="/assets/zazzle_ipad.png"
         projectName="Zazzle"
 
     [[params.portfolio]]
         projectId=2
-        icon="/assets/ic_zazzle_android.png"
-        relativeUrl="/portfolio/zazzle_android"
+        icon="/assets/ic_zazzle_android.svg"
+        relativeUrl="zazzle_android"
         projectDetailImage="/assets/zazzle_android.png"
         projectName="Zazzle"
 
     [[params.portfolio]]
         projectId=3
         icon="/assets/ic_fanjam.png"
-        relativeUrl="/portfolio/fanjam"
+        relativeUrl="fanjam"
         projectDetailImage="/assets/fanjam.png"
         projectName="FanJam"
 
     [[params.portfolio]]
         projectId=4
         icon="/assets/ic_senior_people_meet.png"
-        relativeUrl="/portfolio/seniorpeoplemeet"
+        relativeUrl="seniorpeoplemeet"
         projectDetailImage="/assets/seniorpeoplemeet.png"
         projectName="Senior People Meet"
 
     [[params.portfolio]]
         projectId=5
-        icon="/assets/ic_biobeats.png"
-        relativeUrl="/portfolio/biobeats"
+        icon="/assets/ic_biobeats.svg"
+        relativeUrl="biobeats"
         projectDetailImage="/assets/biobeats.png"
         projectName="Biobeats"
 
     [[params.portfolio]]
         projectId=6
-        icon="/assets/ic_cheddar.png"
-        relativeUrl="/portfolio/cheddar"
+        icon="/assets/ic_cheddar.svg"
+        relativeUrl="cheddar"
         projectDetailImage="/assets/cheddar.png"
         projectName="Cheddar"
 
     [[params.portfolio]]
         projectId=7
-        icon="/assets/ic_stayaxis.png"
-        relativeUrl="/portfolio/stayaxis"
+        icon="/assets/ic_stayaxis.svg"
+        relativeUrl="stayaxis"
         projectDetailImage="/assets/stayaxis.png"
         projectName="StayAxis"
 
     [[params.portfolio]]
         projectId=8
         icon="/assets/ic_bigbaby.png"
-        relativeUrl="/portfolio/bigbaby"
+        relativeUrl="bigbaby"
         projectDetailImage="/assets/bigbaby.png"
         projectName="BigBaby"
 
     [[params.portfolio]]
         projectId=9
-        icon="/assets/ic_notabli_ios.png"
-        relativeUrl="/portfolio/notabli_ios"
+        icon="/assets/ic_notabli_ios.svg"
+        relativeUrl="notabli_ios"
         projectDetailImage="/assets/notabli_ios.png"
         projectName="Notabli"
 
     [[params.portfolio]]
         projectId=10
-        icon="/assets/ic_notabli_android.png"
-        relativeUrl="/portfolio/notabli_android"
+        icon="/assets/ic_notabli_android.svg"
+        relativeUrl="notabli_android"
         projectDetailImage="/assets/notabli_android.png"
         projectName="Notabli"
 

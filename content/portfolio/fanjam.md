@@ -13,7 +13,7 @@ images       = [
 news_keywords = ["Android development", "Freelance mobile development", "Open source", "Todo list"]
 +++
 
-FanJam is a mobile basketball fantasy game for friends. You can play your buddies for free or cash, and easily send challenges through text or email. FanJam is different from traditional fantasy because you get to build a new lineup every night.
+<a href="https://fanjam.com/" target="_blank">FanJam</a> is a mobile basketball fantasy game for friends. You can play your buddies for free or cash, and easily send challenges through text or email. FanJam is different from traditional fantasy because you get to build a new lineup every night.
 
 During my initial consultation with the team at FanJam we discussed a rough timeline and the requirements to start working on the iPhone application. Following this I sent over a proposal which included all the details on the development process, estimate on cost, timeline for release and design requirements for the application.
 
@@ -21,4 +21,4 @@ The team sent over the specifications for their API and also sent the final desi
 
 This application was developed using an agile approach where I would plan tasks for each week in advance. At the end of the week I would send out a build, we also had weekly standups where we discussed the progress for the week.
 
-Take a look at the final product here.
+Take a look at the final product <a href="https://itunes.apple.com/us/app/fanjam/id1019278817" target="_blank">here</a>.

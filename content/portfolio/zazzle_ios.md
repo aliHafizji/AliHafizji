@@ -13,10 +13,10 @@ images       = [
 news_keywords = ["iOS development", "Contract mobile development", "Zazzle", "e-Commerce application"]
 +++
 
-Zazzle is an online marketplace that allows designers and customers to create their own products using their product customization tool.
+<a href="http://www.zazzle.com/" target="_blank">Zazzle</a> is an online marketplace that allows designers and customers to create their own products using their product customization tool.
 
-While working at Monsoon I worked with a team of developers to build the iOS version of Zazzle. I initially started adding support for the iPad to the already existing iPhone application.
+While working at <a href="http://www.kunaiconsulting.com/" target="_blank">Monsoon</a> I worked with a team of developers to build the iOS version of Zazzle. I initially started adding support for the iPad to the already existing iPhone application.
 
 With the release of Swift the team at Zazzle decided to re-write the code in Swift. I was part of the team that worked on re-writing the entire application in Swift. Along the way we added support for universal screen sizes and changed a large amount of code already written in Obj-C.
 
-Here is the link to the app in the Appstore.
+Here is the <a href="https://itunes.apple.com/us/app/zazzle/id736836912?mt=8" target="_blank">link</a> to the app in the Appstore.

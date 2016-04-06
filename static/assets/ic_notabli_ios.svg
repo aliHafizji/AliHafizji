@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="140px" height="140px" viewBox="0 0 142 143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Notabli iOS SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="AppIcons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Notabli-iOS-SVG" transform="translate(4.000000, 2.000000)">
+            <rect id="Rectangle-25" fill="#00AACE" filter="url(#filter-1)" x="0" y="0" width="134" height="135" rx="18"></rect>
+            <g id="Kid-Logo" transform="translate(15.000000, 36.000000)" fill="#FFFFFF">
+                <path d="M93.8361911,21.5575686 L79.0959941,9.79982392 L79.0959941,18.2327653 L68.0578262,9.79982392 L68.0578262,22.3487424 C63.8090463,25.3908013 60.6406086,29.8576542 59.2469884,35.0624534 C58.7426873,36.9556496 58.3861107,38.9063315 58.3861107,40.9489904 C58.3861107,53.5685952 68.5701927,63.7810387 81.1624404,63.7810387 C93.710116,63.7810387 103.922639,53.5685952 103.922639,40.9489904 C103.922639,33.1739412 99.5668864,26.0286798 93.8361911,21.5575686 L93.8361911,21.5575686 L93.8361911,21.5575686 Z M81.4345423,57.5823755 C76.1784335,57.5823755 71.2402723,54.0995927 69.437438,49.9465694 L92.8929613,49.9465694 C91.0476773,54.0995927 86.6295236,57.5823755 81.4345423,57.5823755 L81.4345423,57.5823755 L81.4345423,57.5823755 Z" id="Fill-6"></path>
+                <path d="M60.9428496,17.2414561 L45.0849548,15.7276656 L51.2142517,30.4963843 L60.9428496,17.2414561" id="Fill-7"></path>
+                <path d="M49.0781881,34.9785667 C46.473481,25.2294155 37.695754,18.0143196 27.1495767,18.0143196 C25.2193937,18.0143196 23.3804773,18.3268716 21.590378,18.78037 C12.3652321,21.1223805 5.24770868,29.0613705 4.37239804,38.8186124 L0.230166645,63.7810387 L54.0783258,63.7810387 L49.9365189,38.8186124 C49.7938884,37.5049575 49.4105684,36.2283487 49.0781881,34.9785667 L49.0781881,34.9785667 L49.0781881,34.9785667 Z M27.1436338,57.5419225 C21.9469545,57.5419225 17.2537274,54.0808567 15.408868,49.9193168 L38.8631178,49.9193168 C37.0611325,54.0808567 32.4065346,57.5419225 27.1436338,57.5419225 L27.1436338,57.5419225 L27.1436338,57.5419225 Z" id="Fill-8"></path>
+                <path d="M38.0922332,0.092828783 L28.3653332,13.3460538 L44.2206811,14.8594184 L38.0922332,0.092828783" id="Fill-9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

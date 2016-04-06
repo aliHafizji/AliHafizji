@@ -13,10 +13,10 @@ images       = [
 news_keywords = ["iOS development", "Contract mobile development", "Senior People Meet"]
 +++
 
-SeniorPeopleMeet.com is a community specially designed to cater to senior singles seeking mature dating. It helps people discover a vibrant senior community of mature adults in which to make a senior connection.
+<a href="http://www.seniorpeoplemeet.com/" target="_blank">SeniorPeopleMeet</a> is a community specially designed to cater to senior singles seeking mature dating. It helps people discover a vibrant senior community of mature adults in which to make a senior connection.
 
-While working with Monsoon as a contractor I worked on the SeniorPeopleMeet project. I helped build the iOS application. The application was written in Swift 1.0 which was later upgraded to the latest version with every release from Apple.
+While working with <a href="http://www.kunaiconsulting.com/" target="_blank">Monsoon</a> as a contractor I worked on the SeniorPeopleMeet project. I helped build the iOS application. The application was written in Swift 1.0 which was later upgraded to the latest version with every release from Apple.
 
 I focused on building the networking layer and also helped build a large number of UI elements. We later converted the networking layer into an internal cocoapod and also added support for themes.
 
-You can find the application on the Appstore.
+You can find the application on the <a href="https://itunes.apple.com/us/app/senior-people-meet-1-dating/id969533164?mt=8" target="_blank">Appstore</a>.

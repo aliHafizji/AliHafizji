@@ -15,7 +15,7 @@ images       = [
 news_keywords = ["2D Game", "Kids", "Freelance game developer", "Games for kids", "Educational games"]
 +++
 
-Big Ice Cream is a digital studio that produces apps for pre-school and early primary school children on touch devices.
+<a href="http://www.bigicecream.com/" target="_blank">Big Ice Cream</a> is a digital studio that produces apps for pre-school and early primary school children on touch devices.
 
 The app gives children aged three to six a baby of their own to comfort, feed, dress and care for. 
 
@@ -27,4 +27,4 @@ I also worked on creating a module to understand the exported animations, this m
 
 The entire project took about three months to complete. During the length of the project we held daily standups. I also sent out weekly builds and committed all the code to github on a daily basis.
   
-If you're interested to try the application here is a link to it on the Appstore:.
+If you're interested to try the application here is a <a href="https://itunes.apple.com/us/app/big-baby/id684227642?mt=8" target="_blank">link</a> to it on the Appstore.

@@ -189,3 +189,10 @@ ul {
         margin-top: 20px;
     }
 }
+
+@font-face {
+    font-family: "Zazzicons";
+    src: url("/AliHafizji/fonts/zazzicons3-regular.v5.woff") format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

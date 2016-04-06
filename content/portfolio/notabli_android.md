@@ -13,7 +13,7 @@ images       = [
 news_keywords = ["Android development", "Freelance mobile development", "Notabli", "Notabli for Android"]
 +++
 
-Notabli is a place to privately share photos, videos, quotes, and audio recordings of your kids with family & friends.
+<a href="https://www.notabli.com/" target="_blank">Notabli</a> is a place to privately share photos, videos, quotes, and audio recordings of your kids with family & friends.
 
 Having the privilege of working with Notabli on their iOS application, I was immediately interested when I heard about their delve into the world of Android.
 
@@ -21,4 +21,4 @@ I came on board as a contract Android developer after the first version of the a
 
 It's always fun to work with a team that is motivated to improve the product. Since, they already had a set process and communication channels that they followed internally I adapted to use the same as soon as I joined.
 
-Here is a link to the application in the Google Play Store.
+Here is a <a href="https://play.google.com/store/apps/details?id=com.notabli" target="_blank">link</a> to the application in the Google Play Store.
