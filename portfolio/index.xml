@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on Ali Hafizji</title>
-    <link>http://alihafizji.github.io/AliHafizji/portfolio/</link>
+    <link>http://alihafizji.com/portfolio/</link>
     <description>Recent content in Portfolios on Ali Hafizji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Mar 2016 16:08:40 +0530</lastBuildDate>
-    <atom:link href="http://alihafizji.github.io/AliHafizji/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alihafizji.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>StayAxis</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/stayaxis/</link>
+      <link>http://alihafizji.com/portfolio/stayaxis/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:40 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/stayaxis/</guid>
+      <guid>http://alihafizji.com/portfolio/stayaxis/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.tavisca.com/&#34; target=&#34;_blank&#34;&gt;Tavisca solutions&lt;/a&gt; is a travel technology company. They empower millions of travel bookings and searches for their customers.&lt;/p&gt;
 
 &lt;p&gt;While working at Tavisca I had the unique opportunity to build their first product offering for touch devices. I started working with their design team to create a hotel booking application for the iPad.
@@ -24,10 +24,10 @@ I single handedly built the entire application and also built a small team for t
     
     <item>
       <title>Cheddar</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/cheddar/</link>
+      <link>http://alihafizji.com/portfolio/cheddar/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:33 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/cheddar/</guid>
+      <guid>http://alihafizji.com/portfolio/cheddar/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://cheddarapp.com/&#34; target=&#34;_blank&#34;&gt;Cheddar&lt;/a&gt; is an amazing Todo list application developed for the iPhone and Mac OS platforms. Everything you do with Cheddar pushes to all of your devices, so your world is always in sync.&lt;/p&gt;
 
 &lt;p&gt;This application was developed by the folks at &lt;a href=&#34;http://nothingmagical.com/&#34; target=&#34;_blank&#34;&gt;Nothing Magical&lt;/a&gt;. At that time there was no such application available for Android. Since their API was public I decided to write the Android version of Cheddar.
@@ -39,10 +39,10 @@ I had a blast working on this project as I was not only handling the technical a
     
     <item>
       <title>BigBaby</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/bigbaby/</link>
+      <link>http://alihafizji.com/portfolio/bigbaby/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/bigbaby/</guid>
+      <guid>http://alihafizji.com/portfolio/bigbaby/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.bigicecream.com/&#34; target=&#34;_blank&#34;&gt;Big Ice Cream&lt;/a&gt; is a digital studio that produces apps for pre-school and early primary school children on touch devices.&lt;/p&gt;
 
 &lt;p&gt;The app gives children aged three to six a baby of their own to comfort, feed, dress and care for.&lt;/p&gt;
@@ -61,10 +61,10 @@ I also worked on creating a module to understand the exported animations, this m
     
     <item>
       <title>BioBeats</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/biobeats/</link>
+      <link>http://alihafizji.com/portfolio/biobeats/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/biobeats/</guid>
+      <guid>http://alihafizji.com/portfolio/biobeats/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://biobeats.com/&#34; target=&#34;_blank&#34;&gt;BioBeats’&lt;/a&gt; machine learning platform delivers biometric insight about the well-being of individuals, employees and patients in real-time, and helps them action that insight through engaging media.&lt;/p&gt;
 
 &lt;p&gt;While working as a contractor for &lt;a href=&#34;http://www.kunaiconsulting.com/&#34; target=&#34;_blank&#34;&gt;Monsoon&lt;/a&gt;, I had the privilege to build the early version of the 12 Breaths application. This application was developed using the technology provided by the folks at BioBeats.&lt;/p&gt;
@@ -75,10 +75,10 @@ I also worked on creating a module to understand the exported animations, this m
     
     <item>
       <title>Notabli for Android</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/notabli_android/</link>
+      <link>http://alihafizji.com/portfolio/notabli_android/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/notabli_android/</guid>
+      <guid>http://alihafizji.com/portfolio/notabli_android/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.notabli.com/&#34; target=&#34;_blank&#34;&gt;Notabli&lt;/a&gt; is a place to privately share photos, videos, quotes, and audio recordings of your kids with family &amp;amp; friends.&lt;/p&gt;
 
 &lt;p&gt;Having the privilege of working with Notabli on their iOS application, I was immediately interested when I heard about their delve into the world of Android.&lt;/p&gt;
@@ -93,10 +93,10 @@ I also worked on creating a module to understand the exported animations, this m
     
     <item>
       <title>Notabli for iOS</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/notabli_ios/</link>
+      <link>http://alihafizji.com/portfolio/notabli_ios/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:28 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/notabli_ios/</guid>
+      <guid>http://alihafizji.com/portfolio/notabli_ios/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.notabli.com/&#34; target=&#34;_blank&#34;&gt;Notabli&lt;/a&gt; is a place to privately share photos, videos, quotes, and audio recordings of your kids with family &amp;amp; friends.&lt;/p&gt;
 
 &lt;p&gt;My relationship with Notabli started after the initial release of their iOS application. I started working with them as a freelance contractor and worked only on the iOS application.&lt;/p&gt;
@@ -111,10 +111,10 @@ I also worked on creating a module to understand the exported animations, this m
     
     <item>
       <title>Senior People Meet</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/seniorpeoplemeet/</link>
+      <link>http://alihafizji.com/portfolio/seniorpeoplemeet/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:22 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/seniorpeoplemeet/</guid>
+      <guid>http://alihafizji.com/portfolio/seniorpeoplemeet/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.seniorpeoplemeet.com/&#34; target=&#34;_blank&#34;&gt;SeniorPeopleMeet&lt;/a&gt; is a community specially designed to cater to senior singles seeking mature dating. It helps people discover a vibrant senior community of mature adults in which to make a senior connection.&lt;/p&gt;
 
 &lt;p&gt;While working with &lt;a href=&#34;http://www.kunaiconsulting.com/&#34; target=&#34;_blank&#34;&gt;Monsoon&lt;/a&gt; as a contractor I worked on the SeniorPeopleMeet project. I helped build the iOS application. The application was written in Swift 1.0 which was later upgraded to the latest version with every release from Apple.&lt;/p&gt;
@@ -127,10 +127,10 @@ I also worked on creating a module to understand the exported animations, this m
     
     <item>
       <title>FanJam</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/fanjam/</link>
+      <link>http://alihafizji.com/portfolio/fanjam/</link>
       <pubDate>Mon, 21 Mar 2016 16:08:11 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/fanjam/</guid>
+      <guid>http://alihafizji.com/portfolio/fanjam/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://fanjam.com/&#34; target=&#34;_blank&#34;&gt;FanJam&lt;/a&gt; is a mobile basketball fantasy game for friends. You can play your buddies for free or cash, and easily send challenges through text or email. FanJam is different from traditional fantasy because you get to build a new lineup every night.&lt;/p&gt;
 
 &lt;p&gt;During my initial consultation with the team at FanJam we discussed a rough timeline and the requirements to start working on the iPhone application. Following this I sent over a proposal which included all the details on the development process, estimate on cost, timeline for release and design requirements for the application.&lt;/p&gt;
@@ -145,10 +145,10 @@ I also worked on creating a module to understand the exported animations, this m
     
     <item>
       <title>Zazzle for Android</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/zazzle_android/</link>
+      <link>http://alihafizji.com/portfolio/zazzle_android/</link>
       <pubDate>Mon, 21 Mar 2016 11:17:36 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/zazzle_android/</guid>
+      <guid>http://alihafizji.com/portfolio/zazzle_android/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.zazzle.com/&#34; target=&#34;_blank&#34;&gt;Zazzle&lt;/a&gt; is an online marketplace that allows designers and customers to create their own products using their product customization tool.&lt;/p&gt;
 
 &lt;p&gt;While working at &lt;a href=&#34;http://www.kunaiconsulting.com/&#34;&gt;Monsoon&lt;/a&gt;, I worked with a small team of developers to build the Android version of Zazzle. I worked on this project right from inception to release and was a part of all the important technical decisions.&lt;/p&gt;
@@ -159,10 +159,10 @@ I also worked on creating a module to understand the exported animations, this m
     
     <item>
       <title>Zazzle for iOS</title>
-      <link>http://alihafizji.github.io/AliHafizji/portfolio/zazzle_ios/</link>
+      <link>http://alihafizji.com/portfolio/zazzle_ios/</link>
       <pubDate>Mon, 21 Mar 2016 11:17:36 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/portfolio/zazzle_ios/</guid>
+      <guid>http://alihafizji.com/portfolio/zazzle_ios/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.zazzle.com/&#34; target=&#34;_blank&#34;&gt;Zazzle&lt;/a&gt; is an online marketplace that allows designers and customers to create their own products using their product customization tool.&lt;/p&gt;
 
 &lt;p&gt;While working at &lt;a href=&#34;http://www.kunaiconsulting.com/&#34; target=&#34;_blank&#34;&gt;Monsoon&lt;/a&gt; I worked with a team of developers to build the iOS version of Zazzle. I initially started adding support for the iPad to the already existing iPhone application.&lt;/p&gt;
