@@ -21,7 +21,7 @@ canonifyurls = true
 
     [[params.portfolio]]
         projectId=3
-        icon="/assets/ic_fanjam.png"
+        icon="/assets/ic_fanjam.svg"
         relativeUrl="fanjam"
         projectDetailImage="/assets/fanjam.png"
         projectName="FanJam"
