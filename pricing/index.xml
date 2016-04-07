@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pricings on Ali Hafizji</title>
-    <link>http://alihafizji.github.io/AliHafizji/pricing/</link>
+    <link>http://alihafizji.com/pricing/</link>
     <description>Recent content in Pricings on Ali Hafizji</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Mar 2016 18:04:44 +0530</lastBuildDate>
-    <atom:link href="http://alihafizji.github.io/AliHafizji/pricing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alihafizji.com/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pricing</title>
-      <link>http://alihafizji.github.io/AliHafizji/pricing/</link>
+      <link>http://alihafizji.com/pricing/</link>
       <pubDate>Thu, 17 Mar 2016 18:04:44 +0530</pubDate>
       
-      <guid>http://alihafizji.github.io/AliHafizji/pricing/</guid>
+      <guid>http://alihafizji.com/pricing/</guid>
       <description></description>
     </item>
     
