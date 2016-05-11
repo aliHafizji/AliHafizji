@@ -109,6 +109,22 @@ canonifyurls = true
        profilePic="/assets/caroline.png"
        testimonial="Ali delivered all our requirements plus more. Whilst developing our app, he was diligent and extremely helpful when it came to problem solving. He always went the extra mile to ensure each milestone was delivered on time and with a high degree of quality. Ali is a true professional."
 
+    [[params.testimonials]]
+       testimonialId=5
+       projectId=9
+       name="Jackson Latka"
+       position="Founder, Notabli"
+       profilePic="/assets/jackson.png"
+       testimonial="We have worked with Ali on both iOS and Android projects. His flexibility and availability (seriously, I'm not sure when he sleeps) were greatly beneficial to our team. If you're looking for a versatile mobile developer that can integrate with your existing team, Ali would be a great choice."
+
+    [[params.testimonials]]
+        testimonialId=6
+        projectId=10
+        name="Jackson Latka"
+        position="Founder, Notabli"
+        profilePic="/assets/jackson.png"
+        testimonial="We have worked with Ali on both iOS and Android projects. His flexibility and availability (seriously, I'm not sure when he sleeps) were greatly beneficial to our team. If you're looking for a versatile mobile developer that can integrate with your existing team, Ali would be a great choice."
+
     [[params.books]]
        name="iOS 6 by tutorials"
        features=["Auto Layout", "Passbook", "Social Framework", "EventKit", "And Much More..."]
