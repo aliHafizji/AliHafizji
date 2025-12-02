@@ -1,2 +1,0 @@
-# AliHafizji
-Personal Website

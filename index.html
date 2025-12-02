@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+	<meta name="generator" content="Hugo 0.152.2">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Personal website and portfolio of Ali Hafizji.">
-    <title>{{ .Site.Title }}</title>
+    <title>Ali&#39;s Website</title>
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -12,8 +13,68 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
     <link href="/css/minimal.css" rel="stylesheet"/>
-    {{ partial "seo" . }}
-    {{ partial "ga" . }}
+    
+<meta property="og:title" content="Ali&#39;s Website" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://alihafizji.com/" />
+
+
+
+<meta property="og:updated_time" content="0001-01-01 00:00:00 &#43;0000 UTC"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta property="article:publisher" content="https://www.facebook.com/ali.hafizji" />
+
+<meta property="article:modified_time" content="0001-01-01 00:00:00 &#43;0000 UTC" />
+<meta property="article:section" content="" />
+
+
+
+<meta property="fb:admins" content="564590045" />
+
+
+<meta itemprop="name" content="Ali&#39;s Website">
+<meta itemprop="description" content="">
+
+
+
+
+
+<meta itemprop="keywords" content="" />
+
+
+
+	<meta name="twitter:card" content="summary"/>
+
+
+
+<meta name="twitter:title" content="Ali&#39;s Website"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@Ali_hafizji"/>
+<meta name="twitter:domain" content="alihafizji.com"/>
+
+
+
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3HYMD60N5N"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3HYMD60N5N');
+</script>
+
 </head>
 <body>
     <div class="container">
@@ -86,12 +147,12 @@
     </div>
 
     <script>
-        // Theme toggle functionality with system preference detection
+        
         const themeToggle = document.getElementById('theme-toggle');
         const themeIcon = document.getElementById('theme-icon');
         const html = document.documentElement;
 
-        // Check for saved theme preference or default to system preference
+        
         function getPreferredTheme() {
             const savedTheme = localStorage.getItem('theme');
             if (savedTheme) {
@@ -100,24 +161,24 @@
             return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
 
-        // Set theme
+        
         function setTheme(theme) {
             html.setAttribute('data-theme', theme);
             themeIcon.textContent = theme === 'dark' ? '☀️' : '🌙';
             localStorage.setItem('theme', theme);
         }
 
-        // Initialize theme
+        
         setTheme(getPreferredTheme());
 
-        // Toggle theme
+        
         themeToggle.addEventListener('click', () => {
             const currentTheme = html.getAttribute('data-theme');
             const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
             setTheme(newTheme);
         });
 
-        // Listen for system theme changes
+        
         window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
             if (!localStorage.getItem('theme')) {
                 setTheme(e.matches ? 'dark' : 'light');
