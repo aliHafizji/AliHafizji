@@ -1,7 +1,7 @@
-baseurl = "http://alihafizji.com"
+baseurl = "https://alihafizji.com"
 languageCode = "en-us"
 title = "Ali's Website"
-canonifyurls = true
+canonifyurls = false
 disableKinds = ["taxonomy", "term"]
 
 [params]
