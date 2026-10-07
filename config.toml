@@ -1,6 +1,6 @@
 baseurl = "https://alihafizji.com"
 languageCode = "en-us"
-title = "Ali's Website"
+title = "Ali Hafizji"
 canonifyurls = false
 disableKinds = ["taxonomy", "term"]
 
